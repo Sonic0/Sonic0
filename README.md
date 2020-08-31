@@ -1,5 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif" /></p>
 
+<div align=center>
+
 # Hi I'm Andrea <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/andrea-salvatori-432929166)
@@ -8,3 +10,5 @@
 
 Welcome to my profile! I'm a Unicorn working like an human. I love computers, electronics, telecommunications and magic.
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/andrea-salvatori-432929166/)!
+
+</div>
